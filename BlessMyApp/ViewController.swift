@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         
-        _ = Pray(lang: "random"");
+        _ = Pray(lang: "random");
     }
 
     override func didReceiveMemoryWarning() {
